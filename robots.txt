@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devflutter.com/sitemap.xml
